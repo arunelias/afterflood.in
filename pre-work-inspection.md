@@ -2,16 +2,16 @@
 
 **1. PRE-WORK INSPECTION**
 
-Open doors and windows for 30 minutes before working in the home to reduce odor levels and allow for dilution of airborne contaminants.  
+Open doors and windows for 30 minutes before working in the home to reduce odor levels and allow for dilution of airborne contaminants.
 
-**1.1   Basic Safety Inspection**  
+**1.1 Basic Safety Inspection**  
 **Is there structural damage?**
 
 * If YES do not enter the home until a professional has inspected it and determined it is safe.
 
 **Has your electrical system been inspected?**
 
-*  If NO have your electrician or KSEB inspect your service before using it. Make sure the main electrical switch is turned off. DO NOT enter an area of the home that has standing water until the power has been shut off.
+* If NO have your electrician or KSEB inspect your service before using it. Make sure the main electrical switch is turned off. DO NOT enter an area of the home that has standing water until the power has been shut off.
 * If YES, but is not rated safe, DO NOT use the system. Plan on renting or buying a generator for clean-up work. Do not use open flames for lighting or heat.
 
 **Has the natural gas system been inspected?**
@@ -37,8 +37,7 @@ Open doors and windows for 30 minutes before working in the home to reduce odor 
 
 **Was the home built before 1978?**
 
-If yes you should assume that it has lead-based paint and should use lead safe work practices when disturbing the paint \(See HUD LeadPaintSafetyFieldGuide: : [http://www.hud.gov/offices/lead/training/LBPguide.pdf](http://www.hud.gov/offices/lead/training/LBPguide.pdf)  
-
+If yes you should assume that it has lead-based paint and should use lead safe work practices when disturbing the paint \(See HUD LeadPaintSafetyFieldGuide: : [http://www.hud.gov/offices/lead/training/LBPguide.pdf](http://www.hud.gov/offices/lead/training/LBPguide.pdf)
 
 **Are there 8” x 8” or 9” x 9” floor tiles in the home? Is there any known asbestos in the home?**
 
@@ -56,7 +55,7 @@ If yes you should assume that it has lead-based paint and should use lead safe w
 
 * If YES, then do not use system until a AC professional can inspect and either clean the system or replace it. Again ther are several volunteers on call.
 
-**1.2  Flood/Storm Damage Inspection**
+**1.2 Flood/Storm Damage Inspection**
 
 **Is there an active roof leak or other damage to the house that would let water in?**
 
@@ -68,32 +67,30 @@ Assume that building interiors are seriously contaminated with mold if:
 
 * If the building was wet or under water for more than 48 hours. 
 * You see more mold growth than what was present before the flood.
-*  You see signs of water damage or mold or smell strong mold or mildew odo
+* You see signs of water damage or mold or smell strong mold or mildew odo
 
 **Can any of the furnishings and belongings in the home be saved?**
 
-*  In general, do not try to save moldy, porous things \(items that absorb water\).
-*  The following itesm need to be thrown away when you can see or smell mold and/or the materials have been under water:
+* In general, do not try to save moldy, porous things \(items that absorb water\).
+* The following itesm need to be thrown away when you can see or smell mold and/or the materials have been under water:
 * Carpet and carpet paddings
 * Upholstered furniture
 * Computers, microwaves, window A/C units, and other electronics/appliances that had fans and were housed in moldy rooms.
 * Papers and books
 * Food Items, including canned or tinned food that were in contact with flood waters.
 
-**Items that can be typically saved include:** 
+**Items that can be typically saved include:**
 
 * Non-porous items like china, glass, jewelry, porcelain and metal
 * All wood furniture with mold-growth but otherwise in good condition
-*   Some electronic and small appliances \(depends on flooding conditions\)
-*  Photographs, books and  valuable and important legal documents with minor levels of mold growth
-*  Artwork, textiles, clothing that are not physically damaged.
+* Some electronic and small appliances \(depends on flooding conditions\)
+* Photographs, books and  valuable and important legal documents with minor levels of mold growth
+* Artwork, textiles, clothing that are not physically damaged.
 
 If you plan to save your belongings think about how much storage space you will need. If they cannot be stored at home, make plans for moving and storage at another location. Clean all personal belongings from mold-contaminated areas before moving them to storage areas.  
 When deciding whether to save items, remember that it will take a lot of cleaning time to remove mold and flood contamination to make them safe for reuse. For many items without sentimental value, replacement may be better. This is especially true if items are covered by insurance.
 
-
-
-**1.3  Air out building**
+**1.3 Air out building**
 
 **Before leaving the building after the inspection:**
 
@@ -107,7 +104,4 @@ When deciding whether to save items, remember that it will take a lot of cleanin
 **Source :** Manoj Nair
 
 > **Manoj Nair** has been a journalist for nearly 15 years, working for several leading Indian publications The Economic Times, Outlook and Hindustan Times. He is also a guest lecturer at University Arts London and is currently working on the history of Indian rock music to be published by Harper Collins in 2019. He lives and works in Kochi.
-
-  
-
 

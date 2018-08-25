@@ -16,5 +16,3 @@
 * **Bleaching powder-ബ്ളീച്ചിങ് പൊടി**
 * **Chlorine tablets-ക്ലോറിൻ പൊടി**
 
-
-

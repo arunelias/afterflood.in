@@ -1,0 +1,14 @@
+{
+	"gitbook": "2.x.x",
+	"title": "My Awesome Book",
+	"description": "This is such a great book!",
+	"plugins": [],
+	"pluginsConfig": {},
+	"styles": {
+		"website": "styles/website.css",
+		"ebook": "styles/ebook.css",
+		"pdf": "styles/pdf.css",
+		"mobi": "styles/mobi.css",
+		"epub": "styles/epub.css"
+	}
+}
